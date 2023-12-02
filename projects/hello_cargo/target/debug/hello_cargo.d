@@ -1,0 +1,1 @@
+C:\Users\Filipe\ Jesus\Documents\rust-tutorial\rust-tutorial\projects\hello_cargo\target\debug\hello_cargo.exe: C:\Users\Filipe\ Jesus\Documents\rust-tutorial\rust-tutorial\projects\hello_cargo\src\main.rs
