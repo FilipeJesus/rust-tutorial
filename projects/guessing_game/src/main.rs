@@ -19,6 +19,11 @@ fn main() {
         let guess: u32 = match guess.trim().parse() {
             Ok(num) => num,
             Err(_) => {
+                if guess.trim() == "quit" {
+                    println!("You are ending the game.");
+                    println!("GAME OVER");
+                    break;
+                }
                 println!("Invalid value, must be a number");
                 continue;
             }
