@@ -1,0 +1,1 @@
+C:\Users\Filipe\ Jesus\Documents\rust-tutorial\rust-tutorial\projects\struct_example\target\debug\struct_example.exe: C:\Users\Filipe\ Jesus\Documents\rust-tutorial\rust-tutorial\projects\struct_example\src\main.rs
